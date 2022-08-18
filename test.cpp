@@ -6,8 +6,9 @@ void swap(int a,int b){
 }
 
 int main(){
+    int c;
+    int d;
 
-    int a = 110;
     int b = 100;
     swap(a,b);
     cout<<a<<" "<<b;
