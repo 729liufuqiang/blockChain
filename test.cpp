@@ -6,7 +6,7 @@ void swap(int a,int b){
 }
 
 int main(){
-    int c;
+    int a;
     int d;
 
     int b = 100;
